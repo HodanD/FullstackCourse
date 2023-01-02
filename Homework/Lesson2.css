@@ -1,0 +1,43 @@
+div { background-color: lightyellow;
+  
+}
+
+
+h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+
+.firstDiv {background-color: white;
+     text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#section {background-color: rgb(249, 194, 92);
+    
+    width: 400px;
+    height: 500px;
+    border: 5px solid rgba(236, 130, 8, 0.945);
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+ 
+h1 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black ;
+    font-style: italic;
+    font-size: medium;
+    text-align: center;
+    font-weight: lighter;
+}
+
+#title{ font-style: normal;
+    color: orange;
+    font-size: xx-large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}

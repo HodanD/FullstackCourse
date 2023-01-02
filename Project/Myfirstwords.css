@@ -1,0 +1,101 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding:  4px;
+}
+
+.column {
+  flex: 20%;
+  max-width: 100%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%; 
+  
+}
+
+
+ul{
+  list-style-type: none;
+  display: flex;
+  background-color: rgb(247, 244, 244);
+  width: auto;
+
+
+}
+
+li {
+display: block;
+padding: 20px 50px;
+font-size: x-large;
+
+}
+.navigation a{ 
+  text-decoration: none;
+  color: rgb(7, 2, 2); 
+  
+}
+
+.navigation a:hover {
+  color: yellow;
+  background-color: rgb(118, 214, 154);
+}
+
+
+a img:hover {
+
+  opacity: 0.1;
+
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(252, 252, 247);
+
+}
+
+
+.Title {
+    text-align: center;
+    text-decoration: underline;
+    margin: auto
+    
+    
+}
+
+.Categories {
+   Text-align: center;
+    text-decoration: underline;
+    background-color: rgb(118, 214, 154);
+    border: 2px black solid;
+    font-size: 70%;
+    margin: auto;
+    width: 50%;
+
+}
+
+.Intro { text-align: center;
+    background-color: yellow;
+    border: 2px black solid;
+    margin: auto;
+    font-size: 125%;
+  
+    
+}
+
+h3 {
+  text-align: center;
+  text-decoration: underline;
+  background-color:yellow;
+  border: 2px black solid;
+  font-size: x-large;
+  height: 50px;
+}
+
+h1 {
+font-size: 300%;
+
+}
